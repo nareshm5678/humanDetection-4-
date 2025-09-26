@@ -1,0 +1,45 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.cache/
+.coverage*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Misc
+*.swp
+*.swo
+
+# Videos (optional – tracked via LFS by default)
+# Uncomment if you prefer to ignore videos entirely instead of using LFS
+# *.mp4
+# *.avi
+# *.mkv
