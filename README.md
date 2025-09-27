@@ -1,4 +1,4 @@
-﻿# Dynamic ROI Vision Demo (YOLOv8)
+# Dynamic ROI Vision Demo (YOLOv8)
 
 This interactive desktop demo showcases four adaptive ROI modes with YOLOv8 (using your local yolov8n.pt):
 

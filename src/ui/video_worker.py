@@ -34,7 +34,7 @@ class VideoWorker(QObject):
         self.conf = 0.50
         self.iou = 0.45
         self.mode = 1
-        self.autofocus = True
+        self.autofocus = False
         self.prefer_cuda = True
 
         self.frame_W = 0
