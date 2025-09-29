@@ -28,7 +28,7 @@ python -m venv .venv
 pip install -r requirements.txt
 `
 
-3) Place yolov8n.pt in the project root (already present per your note)
+3) Place yolov8n.pt in the project root
 
 4) Run demo
 
